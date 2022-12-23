@@ -18,7 +18,7 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
 
 ![MasterHead](https://cdn.vectorstock.com/i/1000x1000/69/63/robotics-programming-isometric-3d-banner-header-vector-24276963.webp)
 <h1 align="center">Hi👋,I'm DT-GAMER</h1>
-<h3 align="center">A Passionate Full-Stack Engineer From Nigeria</h3>
+<h3 align="center">A Passionate Full-Stack Software Engineer From Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DT-GAMER&label=Profile%20views&color=0e75b6&style=flat" alt="DT-GAMER" /> </p>
 
