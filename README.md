@@ -47,7 +47,7 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DT-GAMER&" alt="DT-GAMER" /></p>
 
 
-
+<img src="https://github.com/DT-GAMER/DT-GAMER/blob/main/20220119_081606-removebg-preview.png" />
 
 
 <!---
