@@ -40,14 +40,14 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keenmuhammad&show_icons=true&locale=en&layout=compact" alt="keenmuhammad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DT-GAMER&show_icons=true&locale=en&layout=compact" alt="DT-GAMER" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DT-GAMER&show_icons=true&locale=en" alt="DT-GAMER" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DT-GAMER&" alt="DT-GAMER" /></p>
 
 
-<img src="https://github.com/DT-GAMER/DT-GAMER/blob/main/20220119_081606-removebg-preview.png" />
+<img src="https://github.com/DT-GAMER/DT-GAMER/blob/main/IMG_20230123_034948_964-removebg-preview.png" />
 
 
 <!---
