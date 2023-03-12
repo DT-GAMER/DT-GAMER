@@ -11,23 +11,23 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-FB542B?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 ![MasterHead](https://cdn.vectorstock.com/i/1000x1000/69/63/robotics-programming-isometric-3d-banner-header-vector-24276963.webp)
 <h1 align="center">Hi👋,I'm DT-GAMER</h1>
-<h3 align="center">A Passionate Full-Stack Software Engineer From Nigeria</h3>
+<h3 align="center">A Passionate Back-end Developer From Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DT-GAMER&label=Profile%20views&color=0e75b6&style=flat" alt="DT-GAMER" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dominic_abakpa" target="blank"><img src="https://img.shields.io/twitter/follow/dominic_abakpa?logo=twitter&style=for-the-badge" alt="dominic_abakpa" /></a> </p>
 
-- 👀 I’m currently working on **Python and C language** 
+- 👀 I’m currently working on **Python and JavaScript** 
 - 🌱 I’m currently learning **software engineering(ALX Africa)**
-- 💞️ I’m looking to collaborate on **Python and C language** 
-- 🤔 I’m looking for help with **C programming language, Python, Back-End Development Technologies**
+- 💞️ I’m looking to collaborate on **Python and JavaScript** 
+- 🤔 I’m looking for help with **C programming language, Python, JavaScript, Back-End Development Technologies**
 - 📫 How to reach me **abakpad82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
