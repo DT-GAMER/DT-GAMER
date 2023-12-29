@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-My Name is [Abakpa Dominic](https://wa.me/+2347043801566). I am a student of [Alx](https://www.alxafrica.com/) Full stack software engineer with interest in solving real-world problems with technology and dependable leadership.<br/>
+My Name is [Abakpa Dominic](https://wa.me/+2347043801566). I am a software engineer specialized in backend engineering with interest in solving real-world problems with technology and dependable leadership.<br/>
 Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+is%3Aopen).
 
 <div align="center">
@@ -10,7 +10,6 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Anjular.js" src="https://img.shields.io/badge/-Anjular.js-E34F26?style=flat-square&logo=Annular.js&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-FB542B?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-43853d?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -27,10 +26,9 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DT-GAMER" alt="DT-GAMER" /></a> </p>
 
-- 👀 I’m currently working on **Python and JavaScript** 
-- 🌱 I’m currently learning **software engineering(ALX Africa)**
-- 💞️ I’m looking to collaborate on **Python and JavaScript** 
-- 🤔 I’m looking for help with **C programming language, Python, JavaScript, Back-End Development Technologies**
+- 💻 I am proefficient in **Python, Java, and JavaScript programming language**
+- 💞️ I’m looking to collaborate on **open source and real world problem solving projecs**
+- 🤔 I’m looking for help with **, Python,Java, JavaScript, Back-End Development Technologies**
 - 📫 How to reach me **abakpad82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
