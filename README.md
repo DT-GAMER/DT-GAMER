@@ -26,8 +26,8 @@ Ask me anything [here](https://github.com/DT-GAMER/DT-GAMER/issues?q=is%3Aissue+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DT-GAMER" alt="DT-GAMER" /></a> </p>
 
-- 💻 I am proefficient in **Python, Java, and JavaScript programming language**
-- 💞️ I’m looking to collaborate on **open source and real world problem solving projecs**
+- 💻 I am proefficient in **Python, Java, and JavaScript programming languages**
+- 💞️ I’m looking to collaborate on **open source and real world problem solving projects**
 - 🤔 I’m looking for help with **, Python,Java, JavaScript, Back-End Development Technologies**
 - 📫 How to reach me **abakpad82@gmail.com**
 
