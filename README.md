@@ -4,9 +4,9 @@
 
 # Hi, I'm Abakpa Dominic
 
-### Backend Engineer | Problem Solver | Dependable Technical Leader
+### Backend Software Engineer specializing in Go, TypeScript, and Python
 
-I build reliable backend systems, APIs, and cloud-ready applications that solve real-world problems. I enjoy turning ideas into dependable products, collaborating on open source, and leading with clarity when projects need structure.
+I design and build scalable backend systems across healthcare, fintech, cybersecurity, and data-driven platforms. My experience spans distributed systems, cloud infrastructure, API design, automation, security tooling, and high-performance backend services.
 
 [![Profile views](https://komarev.com/ghpvc/?username=DT-GAMER&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DT-GAMER)
 [![GitHub followers](https://img.shields.io/github/followers/DT-GAMER?logo=github&style=flat-square)](https://github.com/DT-GAMER?tab=followers)
@@ -22,46 +22,144 @@ I build reliable backend systems, APIs, and cloud-ready applications that solve 
 
 ## About Me
 
-<img align="right" alt="Coding" width="360" src="work.svg">
+<img align="right" alt="Backend engineering illustration" width="360" src="work.svg">
 
-- Backend engineer from Nigeria focused on building practical, dependable software.
-- Proficient in **Python**, **Java**, and **JavaScript**.
-- Experienced with APIs, databases, cloud deployment, containerization, and developer tooling.
-- Open to collaborating on **open-source projects**, backend systems, automation tools, and products that solve real user problems.
-- Currently improving deeper backend architecture, DevOps workflows, and scalable system design.
+- Backend engineer from Nigeria focused on practical, dependable software.
+- Experienced across healthcare technology, fintech infrastructure, cybersecurity platforms, and data-driven products.
+- Strong in API design, database design, background processing, cloud deployment, and system architecture.
+- Comfortable building production services with Go, TypeScript, Python, Java, PostgreSQL, Redis, Docker, AWS, and GCP.
+- Open to collaborating on backend systems, open-source tools, automation platforms, and products that solve real operational problems.
 
 <br clear="right"/>
+
+## Featured Projects
+
+### Radture — Radiology Workflow Platform
+
+Radture is a healthcare technology platform designed to streamline radiology workflows for hospitals, imaging centers, and specialists. The platform enables study management, specialist assignment, reporting workflows, operational visibility, and future PACS integration.
+
+**Highlights**
+
+- Multi-tenant hospital architecture
+- Study assignment and reporting workflows
+- Role-based access control
+- Healthcare workflow automation
+- Scalable backend services
+
+**Tech Stack:** Go, PostgreSQL, Docker, Cloud Infrastructure
+
+---
+
+### Fintech Infrastructure & Payment Systems
+
+Designed and developed backend services powering payment processing, transaction management, wallet operations, merchant onboarding, settlement workflows, currency conversion, and financial integrations.
+
+**Highlights**
+
+- Payment orchestration systems
+- Wallet and ledger management
+- Currency conversion workflows
+- Merchant management platforms
+- Transaction reconciliation systems
+- Third-party financial integrations
+
+**Tech Stack:** TypeScript, Node.js, PostgreSQL, Redis, Docker
+
+---
+
+### Mobile Application Security Testing Platform
+
+Built a security assessment platform that helps organizations identify vulnerabilities in mobile applications through automated security analysis and testing workflows.
+
+**Highlights**
+
+- Automated security assessments
+- Vulnerability detection workflows
+- Security reporting and risk scoring
+- Secure backend processing pipelines
+- Asynchronous scan execution
+
+**Tech Stack:** Python, Django, Celery, Redis, PostgreSQL, Docker
+
+---
+
+### Employee Security Awareness & Education Platform
+
+Developed a platform focused on improving organizational security culture through employee education, awareness campaigns, assessments, and security training programs.
+
+**Highlights**
+
+- Security awareness training
+- Employee assessment workflows
+- Progress tracking and reporting
+- Automated notifications and scheduling
+- Organizational security metrics
+
+**Tech Stack:** Python, Django, Celery, Redis, PostgreSQL, Docker
+
+---
+
+### AI-Powered Sports Prediction Platform
+
+Built an intelligent prediction engine that evaluates football fixtures using historical performance, expected value calculations, confidence scoring, market analysis, and risk assessment models.
+
+**Highlights**
+
+- Automated fixture analysis
+- Multi-market prediction engine
+- Confidence-based scoring
+- Expected value calculations
+- Automated scheduling and processing
+
+**Tech Stack:** Python, Django, Celery, Redis, PostgreSQL
+
+## Areas of Expertise
+
+- Backend Engineering
+- System Architecture
+- API Design & Integration
+- Fintech Infrastructure
+- Healthcare Technology
+- Cybersecurity Platforms
+- Cloud & DevOps
+- Database Design
+- Distributed Systems
+- Automation & Background Processing
+
+## Technical Toolbox
+
+| Category | Technologies |
+| --- | --- |
+| Languages | Java, Go, Python, TypeScript |
+| Frameworks | Spring Boot, Django, NestJS |
+| Databases | PostgreSQL, MySQL, Redis |
+| Infrastructure & DevOps | Docker, Linux, AWS, GCP, CI/CD, Azure DevOps, GitHub Actions |
+| Architecture | Microservices, REST APIs, Event-driven systems, High-concurrency systems |
+| Observability | Prometheus, Logging, Monitoring, Alerting |
+| Concepts | Concurrency, Transactions, System Design, API Design, Distributed Systems |
 
 ## Core Stack
 
 <div align="center">
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-## What I Work On
-
-- Designing and building REST APIs and backend services.
-- Working with relational and NoSQL databases.
-- Deploying applications with Docker, cloud platforms, and CI/CD workflows.
-- Improving reliability, maintainability, and performance in existing systems.
-- Contributing to open source and community-driven software.
 
 ## GitHub Stats
 
