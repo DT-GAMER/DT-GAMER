@@ -46,7 +46,7 @@ Radture is a healthcare technology platform designed to streamline radiology wor
 - Healthcare workflow automation
 - Scalable backend services
 
-**Tech Stack:** Go, PostgreSQL, Docker, Cloud Infrastructure
+**Tech Stack:** NestJS, PostgreSQL, Docker, Cloud Infrastructure
 
 ---
 
