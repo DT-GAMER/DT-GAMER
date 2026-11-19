@@ -165,8 +165,8 @@ Built an intelligent prediction engine that evaluates football fixtures using hi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DT-GAMER&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="DT-GAMER GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DT-GAMER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="DT-GAMER top languages" />
+<img src="metrics.overview.svg" alt="DT-GAMER GitHub stats (includes private and organization work)" />
+<img src="metrics.languages.svg" alt="DT-GAMER top languages (includes private and organization work)" />
 
 <br/>
 

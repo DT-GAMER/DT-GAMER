@@ -1,0 +1,57 @@
+name: GitHub metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Overview card: commits, PRs, repos, stars — includes private and org activity
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DT-GAMER
+          template: classic
+          base: header, activity, community, repositories
+          repositories_affiliations: owner, collaborator, organization_member
+          config_timezone: Africa/Lagos
+          config_display: large
+          committer_message: "chore: update overview metrics [skip ci]"
+
+      # Top languages: computed from YOUR commits across personal, private and org repos
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DT-GAMER
+          template: classic
+          base: ""
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_skipped: DT-GAMER/DT-GAMER
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 5
+          plugin_languages_categories: programming
+          plugin_languages_recent_categories: programming
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 30
+          plugin_languages_details: lines, percentage
+          plugin_languages_limit: 8
+          config_display: large
+          committer_message: "chore: update language metrics [skip ci]"
