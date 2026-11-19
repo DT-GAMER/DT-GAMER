@@ -174,7 +174,9 @@ Built an intelligent prediction engine that evaluates football fixtures using hi
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DT-GAMER&theme=tokyo-night&hide_border=true" alt="DT-GAMER GitHub activity graph" />
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DT-GAMER&theme=tokyo-night&hide_border=true" alt="DT-GAMER GitHub contribution graph" />
 
 </div>
 
