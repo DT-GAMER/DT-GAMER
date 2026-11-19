@@ -28,13 +28,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           repositories: 300
+          repositories_batch: 20
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: DT-GAMER/DT-GAMER
           commits_authoring: DT-GAMER, Abakpa Dominic, abakpad82@gmail.com, abakpad82@gmaail.com
           config_timezone: Africa/Lagos
           config_display: large
           plugin_languages: yes
-          debug: yes
           plugin_languages_ignored: html, css, scss, less, mdx, jupyter notebook, blade, ejs, handlebars, procfile, makefile, dockerfile
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
