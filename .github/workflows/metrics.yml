@@ -27,6 +27,8 @@ jobs:
           user: DT-GAMER
           template: classic
           base: header, activity, community, repositories
+          repositories: 300
+          commits_authoring: DT-GAMER, Abakpa Dominic, abakpad82@gmail.com, abakpad82@gmaail.com
           repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Africa/Lagos
           config_display: large
@@ -40,8 +42,11 @@ jobs:
           user: DT-GAMER
           template: classic
           base: ""
+          repositories: 300
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: DT-GAMER/DT-GAMER
+          # Every identity commits have been authored with (incl. an old typo'd email)
+          commits_authoring: DT-GAMER, Abakpa Dominic, abakpad82@gmail.com, abakpad82@gmaail.com
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
