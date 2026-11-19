@@ -165,8 +165,7 @@ Built an intelligent prediction engine that evaluates football fixtures using hi
 
 <div align="center">
 
-<img src="metrics.overview.svg" alt="DT-GAMER GitHub stats (includes private and organization work)" />
-<img src="metrics.languages.svg" alt="DT-GAMER top languages (includes private and organization work)" />
+<img src="metrics.svg" alt="DT-GAMER GitHub stats and top languages (includes private and organization work)" />
 
 <br/>
 
